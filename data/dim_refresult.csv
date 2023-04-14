@@ -1,0 +1,906 @@
+refresult_key,normal_res,m_newborn,f_newborn,m_child,f_child,m_adult,f_adult,reference,attr_key,m_oap,f_oap
+10001,35 - 45 mmHg,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14320,Not found,Not found
+10002,80 - 100 mmHg,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14321,Not found,Not found
+10003,20 - 26 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14322,Not found,Not found
+10004,> 97%,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14323,Not found,Not found
+10005,-3 to +3 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14324,Not found,Not found
+10006,20 - 300 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13110,Not found,Not found
+10007,"Adult : < 200 IU/mL
+Children : < 400 IU/mL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13550,Not found,Not found
+10008,5 -17 mg/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13111,Not found,Not found
+10009,70.0 - 130.0,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12515,Not found,Not found
+10010,"Male: 60.0 - 130.0
+Female: 50.0-120.0",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12357,Not found,Not found
+10011,Less than 35 U/mmol,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12281,Not found,Not found
+10012,Normal Value: 2% - 5%,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12278,Not found,Not found
+10013,40.0 - 220.0 mmol/24 Hrs,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12480,Not found,Not found
+10014,25.0 - 125.0 mmol/24 Hrs,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12481,Not found,Not found
+10015,110.0 - 250.0 mmol/24 Hrs,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12482,Not found,Not found
+10016,60 IU/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10656,Not found,Not found
+10017,"Age:         Male:          Female:
+01-09Yrs     <0.346         0.0 -0.346 
+10-11Yrs     0.62-3.46      0.52-0.69 
+12-15Yrs     3.46-11.0      0.69-1.21 
+16-19Yrs     6.93-21.49     0.69-1.31 
+20-50Yrs     10.40-35.71    0.35-2.77 
+>50 Yrs                6.2 - 26.0",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14350,Not found,Not found
+10018,"< 10 IU/ml : Negative
+10.0-12.5 IU/ml : Indeterminate (Borderline)
+>12.5 IU/ml : Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14399,Not found,Not found
+10019,0.64-1.52 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13554,Not found,Not found
+10020,4.5-12.0 g/dl,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13552,Not found,Not found
+10021,Upto 4.0 ng/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13651,Not found,Not found
+10022,Upto 37 U/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12291,Not found,Not found
+10023,< 30.0 U/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10412,Not found,Not found
+10024,< 5.0 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10658,Not found,Not found
+10025,"Females <50 yrs:6.24-137 ng/ml, Females >50 yrs:11.1-264 ng/ml,                      Males: 17.9-464 ng/ml",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14015,Not found,Not found
+10026,< 35.0 U/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10401,Not found,Not found
+10027,0.8 - 2.0 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13551,Not found,Not found
+10028,197 - 771 pg/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14471,Not found,Not found
+10029,>1000 ng/mL may be considered as positive,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14383,Not found,Not found
+10030,96 - 110 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14398,Not found,Not found
+10031,0.06 - 5.0 ng/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13938,Not found,Not found
+10032,01-06 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13122,Not found,Not found
+10033,<01 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13123,Not found,Not found
+10034,82-100 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13125,Not found,Not found
+10035,27-32 pg,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13126,Not found,Not found
+10036,30 - 35 g/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13127,Not found,Not found
+10037,30 - 35 g/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12948,Not found,Not found
+10038,"F 11.5 - 15.5, M 13.5 - 18.0 g/dL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12931,Not found,Not found
+10039,"F 3.8-4.8, M 4.5-5.5  X 10^12/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12932,Not found,Not found
+10040,11.60 - 14.00 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14164,Not found,Not found
+10041,150 - 450 X 10^9/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12933,Not found,Not found
+10042,04.00 - 11.00  X 10^9/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12939,Not found,Not found
+10043,40 - 75 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12940,Not found,Not found
+10044,20 - 50 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12941,Not found,Not found
+10045,02 - 10 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12942,Not found,Not found
+10046,01 - 06 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12943,Not found,Not found
+10047,< 01 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12944,Not found,Not found
+10048,"F: 37 - 47 % , M: 40 - 52 %",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12945,Not found,Not found
+10049,82 - 100 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12946,Not found,Not found
+10050,27 - 32 pg,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12947,Not found,Not found
+10051,30 - 35 g/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14156,Not found,Not found
+10052,"F 3.8 - 4.8, M 4.5 - 5.5  X 10^12/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14145,Not found,Not found
+10053,39.00 - 46.00 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14165,Not found,Not found
+10054,150 - 450 X 10^9/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14146,Not found,Not found
+10055,04.00 - 11.00  X 10^9/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14147,Not found,Not found
+10056,40 - 75 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14148,Not found,Not found
+10057,20 - 50 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14149,Not found,Not found
+10058,02 - 10 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14150,Not found,Not found
+10059,01 - 06 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14151,Not found,Not found
+10060,< 01 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14152,Not found,Not found
+10061,"F: 37 - 47 % , M: 40 - 52 %",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14153,Not found,Not found
+10062,82 - 100 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14154,Not found,Not found
+10063,27 - 32 pg,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14155,Not found,Not found
+10064,<30 mm in 1st hour,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13115,Not found,Not found
+10065,< 30 mm in 1st hour,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14144,Not found,Not found
+10066,7.20 - 9.20 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14166,Not found,Not found
+10067,7.20 - 9.20 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12953,Not found,Not found
+10068,39.00 - 46.00 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12952,Not found,Not found
+10069,11.60 - 14.00 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12951,Not found,Not found
+10070,"0-5 years Male,Female: Not established
+6-12 years Male,Female: 87-600
+13-17 years Male,Female: 140-804
+18-60 years Male: 197-1079, Female: 174-902
+61-70 years Male: 182-937, Female: 142-713
+>70 years Male: 136-771, Female: 89-569",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12202,Not found,Not found
+10071,M:59 - 148, F: 37 - 145 �g/dL,Not found,Not found,Not found,Not found,Not found,Not found,13958,Not found,Not found
+10072,"Male: 261-462 �g/dl, Female: 265-497 �g/dl",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10696,Not found,Not found
+10073,< 6.1 mmol/L (WHO), <5.6 mmol/L (ADA)*,Not found,Not found,Not found,Not found,Not found,Not found,13503,Not found,Not found
+10074,Upto 11.00 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13502,Not found,Not found
+10075,30 - 35 g/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13363,Not found,Not found
+10076,96 - 110 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14368,Not found,Not found
+10077,"Child 3.4 - 4.7, Adult 3.5 - 5.5 mmol/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14367,Not found,Not found
+10078,Adult 2-17 �mol/L, Neonates <215.5 �mol/L,Not found,Not found,Not found,Not found,Not found,Not found,14326,Not found,Not found
+10079,135-146 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14366,Not found,Not found
+10080,22 - 32 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14369,Not found,Not found
+10081,0.8:1-2.7:1,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14375,Not found,Not found
+10082,34-50 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14376,Not found,Not found
+10083,"Child: 28 - 54, Adult: 36 - 60 gm/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14331,Not found,Not found
+10084,18 - 44 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14374,Not found,Not found
+10085,Child: 46 - 80, Adult: 63 - 84 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,14377,Not found,Not found
+10086,"Adult <= 1.0, Neonates <12.6 mg/dL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,11470,Not found,Not found
+10087,Adult: 15 - 40, Child: 20 - 80 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,13629,Not found,Not found
+10088,"At birth < 5.0 mg/dl
+5 days < 12.0 mg/dl
+1 Month < 1.50 mg/dl
+adult < 1.2 mg/dl",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10579,Not found,Not found
+10089,Upto 1.6 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14252,Not found,Not found
+10090,"Child: Upto 340, Adult: 117 U/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14329,Not found,Not found
+10091,Upto 37 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14327,Not found,Not found
+10092,64-82 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14330,Not found,Not found
+10093,18-44 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14332,Not found,Not found
+10094,16-36 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13743,Not found,Not found
+10095,"Child 28-54, Adult 36-60 gm/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13744,Not found,Not found
+10096,"Adult-15-40, Ch-20-80 mg/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13745,Not found,Not found
+10097,135 - 146 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12297,Not found,Not found
+10098,5 -  47 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11467,Not found,Not found
+10099,"Male: < 50.0 U/L
+Female: <35.0 U/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,11468,Not found,Not found
+10100,38 - 126 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11469,Not found,Not found
+10101,135 - 146 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12304,Not found,Not found
+10102,"Adult: 63 - 84, Child: 46 - 84 gm/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13749,Not found,Not found
+10103,34-50 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13748,Not found,Not found
+10104,< 7.8 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13653,Not found,Not found
+10105,<6.1 mmol/L (WHO), <5.6 mmol/L (ADA)*,Not found,Not found,Not found,Not found,Not found,Not found,13654,Not found,Not found
+10106,Less than 490 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12174,Not found,Not found
+10107,Adult: 40 - 70, Child: 60 - 80 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,13631,Not found,Not found
+10108,> 50.0 ng/ml may be considered as positive.,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14082,Not found,Not found
+10109,3.5-6.1 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13660,Not found,Not found
+10110,Upto 7.80 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13661,Not found,Not found
+10111,"Male: 19.1 - 39.1 %
+Female: 12.8 - 36.4 %",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12440,Not found,Not found
+10112,21 - 27 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13718,Not found,Not found
+10113,Adult <= 1.0, Neonates < 12.6 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,10833,Not found,Not found
+10114, Neonates < 12.6 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,16256,Not found,Not found
+10115,<13.60 mg/24 hrs,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13430,Not found,Not found
+10116,0.30 - 2.0 g/l,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13497,Not found,Not found
+10117,<30.0 mg/g,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13449,Not found,Not found
+10118,"Desirable:< 200 mg/dL,
+Borderline: 200 - 239 mg/dL,
+High: > 239 mg/dL,
+Child: 0-1 year: 50-120 mg/dL,
+1-2 yeras: 70-190 mg/dL,
+2-6 years: 120-220 mg/dL,
+> 16 years: 0-199 mg/dL
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10967,Not found,Not found
+10119,> 40 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10968,Not found,Not found
+10120,39.00 - 46.00 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13138,Not found,Not found
+10121,7.20 - 9.20 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13139,Not found,Not found
+10122,11.60 - 14.00 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13137,Not found,Not found
+10123,7.20 - 9.20 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14233,Not found,Not found
+10124,39.00 - 46.00 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14232,Not found,Not found
+10125,11.60 - 14.00 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14231,Not found,Not found
+10126,"Male: 3.4-7.0, Female: 2.4-5.7 mg/dl
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14463,Not found,Not found
+10127,10 - 15 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12321,Not found,Not found
+10128,">8.0 Action Suggested +, 
+<7.0 Goal ++, 
+<6.0 Non Diabetic Level
++ High risk of developing long term, Complications such as retinopathy, 
+Nephropathy, neuropathy and Cardiopathy. Action suggested depends on 
+individual patient circumstances. ++ Some danger of hypoglycemic reaction in 
+Typel diabetic. Some glucose intolerant individuals and ""Sub-clinical""
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13952,Not found,Not found
+10129,Upto 11.00 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14083,Not found,Not found
+10130,4.1 -  6.1 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13498,Not found,Not found
+10131,< 7.8 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12977,Not found,Not found
+10132,10-50 mg/dl,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14021,Not found,Not found
+10133,7 - 23 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13507,Not found,Not found
+10134,75 - 120 ml/min,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14364,Not found,Not found
+10135,40 - 90 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14363,Not found,Not found
+10136,0.5 - 1.5 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14362,Not found,Not found
+10137,"Adult: 0.6 - 1.3 mg/dl,
+Child: 0.3 - 0.7 mg/dl",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14208,Not found,Not found
+10138,"M: 6.0 - 22.0, F: 4.0 - 16.0 mg/24hrs",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13529,Not found,Not found
+10139,Serum Concentration between 4.0 and 10.0 ug/ml of Carbamazepine (TRGRETOL) have been associate with optimal seizure control in normal adults.,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11626,Not found,Not found
+10140,1.6-2.3 mg/dl,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13742,Not found,Not found
+10141,8.1 - 10.4 mg/dl.,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11625,Not found,Not found
+10142,2.7-16.1 ng/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12322,Not found,Not found
+10143,"Child: 3.4 - 4.7, Adult: 3.5 - 5.5 mmol/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13787,Not found,Not found
+10144,40.0 - 220.0 mmol/24hrs,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10608,Not found,Not found
+10145,Upto 90 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14461,Not found,Not found
+10146,275.0-295.0 mOsmol/KG,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13432,Not found,Not found
+10147,Therapeutic range: 50 - 100 �g/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14318,Not found,Not found
+10148,23-300 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12968,Not found,Not found
+10149,200 - 600 mg/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11901,Not found,Not found
+10150,"Male: 16-60 �mol/L
+Female: 11-51 �mol/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13944,Not found,Not found
+10151,24 - 190 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14462,Not found,Not found
+10152,20 - 500 /cu mm,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14136,Not found,Not found
+10153,"Optimum fertility potential       : 4.0 - 10.0 ng/ml
+Satisfactory fertility potential  : 2.0 - 3.9 ng/ml 
+Low fertility potential           : 0.3 - 2.19 ng/ml",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12917,Not found,Not found
+10154,Upto 5.61 IU/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13556,Not found,Not found
+10155,0.5 - 2.5% (50 - 100 �10^9/L),Not found,Not found,Not found,Not found,Not found,Not found,BSH,14137,Not found,Not found
+10156,150 - 450 X 10^9/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13117,Not found,Not found
+10157,04.00 - 11.00  X 10^9/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13118,Not found,Not found
+10158,40 - 75 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13119,Not found,Not found
+10159,20 - 50 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13120,Not found,Not found
+10160,Fasting 4.03 - 23.46�IU/mL .  Random   24.00 - 79.00,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10580,Not found,Not found
+10161,135-146 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12958,Not found,Not found
+10162,Less than 0.15 g/24hrs,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10611,Not found,Not found
+10163,Upto 100 - 300 mg/24hrs,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14465,Not found,Not found
+10164,0.8:1-2.7:1,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14333,Not found,Not found
+10165,22 - 32 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12466,Not found,Not found
+10166,300 - 1000 mg/24hrs,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10614,Not found,Not found
+10167,"Adult: 2.5 - 5.0 mg/dl
+Child: 3.0 - 7.0 mg/dl",Not found,Not found,Not found,Not found,Not found,Not found,BSH,11077,Not found,Not found
+10168,"Optimal: <100 mg/dL,
+Normal: < 150 mg/dL  
+Borderline -high: 150 - 199 mg/dL 
+High: 200 - 499 md/dL,
+Very High: >499 mg/dL
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14467,Not found,Not found
+10169,< 0.20                    .,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12464,Not found,Not found
+10170,> 300 ng/ml may be considered as positive.,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14081,Not found,Not found
+10171,> 200.0 ng/ml may be considered as positive.,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13736,Not found,Not found
+10172,"Desirable:< 200 mg/dL,
+Borderline: 200 - 239 mg/dL,
+High: > 239 mg/dL,
+Child: 0-1 year: 50-120 mg/dL,
+1-2 yeras: 70-190 mg/dL,
+2-6 years: 120-220 mg/dL,
+> 16 years: 0-199 mg/dL   
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14466,Not found,Not found
+10173,> 40 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13628,Not found,Not found
+10174,Borderline-(100-159) mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12323,Not found,Not found
+10175,<5.0 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14391,Not found,Not found
+10176,"Negative: < 30 IU/mL
+  Positive: >30 IU/mL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10659,Not found,Not found
+10177,Upto 50 U/ml = Negative,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10688,Not found,Not found
+10178,"<30.0 EIU = Negative
+>30.0 EIU = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13994,Not found,Not found
+10179,upto 190 IU/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10400,Not found,Not found
+10180,<4.11 IU/mL.,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13557,Not found,Not found
+10181,"<9 U/ml= Negative
+9-11 U/ml = Equivocal
+>11 U/ml = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14028,Not found,Not found
+10182,<1.5 IU/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10473,Not found,Not found
+10183,"Male: 15.0 - 50.0 pg/ml
+Female: <4.2 pg/mL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12153,Not found,Not found
+10184,"Antibody Negative :<8mIU/ml
+Border line: 8-12 mIU/ml
+Positive: >12.0 mIU/ml",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10461,Not found,Not found
+10185,50 to 150 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11994,Not found,Not found
+10186,"50 to 150 %
+
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10977,Not found,Not found
+10187,"< 200.0 ng/ml
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14403,Not found,Not found
+10188,200 - 400 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11952,Not found,Not found
+10189,<5.0 ug/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13512,Not found,Not found
+10190,"0 - 12 months : < 2,100 mg/g
+13 - 24 months : < 450 mg/g
+25 months - 5 years : < 350 mg/g
+6 - 10 years : < 300 mg/g
+11 - 18 years : < 260 mg/g
+>= 19 years : < 220 mg/g",Not found,Not found,Not found,Not found,Not found,Not found,BSH,11048,Not found,Not found
+10191,<5.0 U/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11995,Not found,Not found
+10192,0.64-1.52 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13464,Not found,Not found
+10193,4.5 - 12.0 �g/dl,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14390,Not found,Not found
+10194,1.5 - 4.1 pg/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13549,Not found,Not found
+10195,0.89 - 1.76 ng/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14359,Not found,Not found
+10196,<4.11 IU/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13565,Not found,Not found
+10197,"Female: Follicular phase: 0.36-1.21 ng/ml
+         Ovulation phase: 0.39-22.87 ng/ml
+         Luteal phase   : 2.12-26.44 ng/ml
+         Post Menopausal: 0.1-1.0 ng/ml
+At Pregnancy: 1st Trimester: 2.0-49.0 ng/ml
+         2nd Trimester: 15.4-68.9 ng/ml,
+         3rd Trimester: 59.8->80, 
+Male: 0.23-1.5 ng/ml",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14355,Not found,Not found
+10198,"Male: 0.57 - 12.07 mIU/mL  
+Female: Normally Menstruating:
+Follicular Phase: 1.80- 11.78 mIU/mL
+Mid Cycle Peak: 7.59-89.08 mIU/mL 
+Luteal Phase: 0.56-14.0 mIU/mL
+Postmenopausal: Female: (Without HRT) 5.16-61.99 mIU/mL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14351,Not found,Not found
+10199,3.1 - 20.5 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12474,Not found,Not found
+10200,"Male: 0.95 - 11.95 mIU/ml 
+Female: Normally Menstruating: 
+Follicular Phase: 3.03-8.08 mIU/ml
+Mid Cycle Peak: 2.55-16.69 mIU/ml
+Luteal Phase: 1.38-5.47 mIU/ml
+Postmenopausal:Female:26.72-133.41mIU/ml",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14360,Not found,Not found
+10201,"Adult Male: <87.0 pg/ml
+Adult Women:
+Follicular phase: 15.0-112.0 pg/ml
+Pre-ovulatory: 136.0-251.0 pg/ml
+Luteal phase: 48.0-172.0 pg/ml
+Post Menopausal: 10.0- 66.0 pg/ml
+Hormonal Contraceptives : 15.0-95.0 pg/ml",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14356,Not found,Not found
+10202,"Negative   : < 0.8
+Borderline : 0.8 - 1.2
+Positive   : >1.2",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13517,Not found,Not found
+10203,< 30 mm in 1st hour,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13422,Not found,Not found
+10204,"M: 13-17 g/dl, F: 11.5-15 g/dl",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13374,Not found,Not found
+10205,"M: < 30 mm, F: < 20 mm",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13364,Not found,Not found
+10206,"M: 4 - 6 X 10^12/L, F: 4-5.5 X 10^12/L
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13365,Not found,Not found
+10207,150 - 450 X 10^9/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13366,Not found,Not found
+10208,"New born- 10-25 X 10^9/L
+Infant- 6-18 X 10^9/L
+2 - 12 Years- 5-15 X 10^9/L
+Adult- 4-11 X 10^9/L
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13367,Not found,Not found
+10209,"Child: 20-50, Adult: 40-75",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13368,Not found,Not found
+10210,"Child: 40-75, Adult: 20-40",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13369,Not found,Not found
+10211,02 - 10 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13370,Not found,Not found
+10212,2 - 6,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13371,Not found,Not found
+10213,< 1.0,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13372,Not found,Not found
+10214,"F: 37 - 47 % , M: 40 - 52 %",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13360,Not found,Not found
+10215,82 - 100 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13361,Not found,Not found
+10216,27 - 32 pg,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13362,Not found,Not found
+10217,"Negative   : <600
+Borderline : 600 - 800
+Positive   : >800",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13515,Not found,Not found
+10218,"Negative   : <200
+Borderline : 200 - 300
+Positive   : >300",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13516,Not found,Not found
+10219,0.90 - 1.80 g/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11993,Not found,Not found
+10220,0.10 - 0.40 g/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13568,Not found,Not found
+10221,"Negative   : < 600
+Borderline : 600 - 800
+Positive   : > 800",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14012,Not found,Not found
+10222,"Negative   : < 0.95
+Borderline : 0.95 - 1.0
+Positive   : > 1.0",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14013,Not found,Not found
+10223,"Negative   : < 200
+Borderline : 200 - 300
+Positive   : >300",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14014,Not found,Not found
+10224,"< 15.0 U/mL = Negative
+15.0 - 25.0 U/mL = Borderline
+> 25.0 U/mL = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13546,Not found,Not found
+10225,"< 12 U/mL = Negative
+12-18 U/mL = Equivocal
+> 18 U/mL = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10123,Not found,Not found
+10226,"< 10.0 U/ml = Negative
+>=10.0 U/ml = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13547,Not found,Not found
+10227,"<0.90 = Negative
+0.90-1.10 = Equivocal
+>=1.10 = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12271,Not found,Not found
+10228,<20.0 U/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10464,Not found,Not found
+10229,"< 10.0 U/mL = Negative
+>= 10.0 U/mL = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,11859,Not found,Not found
+10230,"< 10.0 U/mL = Negative
+>=10.0 U/mL = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,11860,Not found,Not found
+10231,"< 10 IU/ml : Negative
+10.0-12.5 IU/ml : Indeterminate (Borderline)
+>12.5 IU/ml : Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10402,Not found,Not found
+10232,"< 10 IU/ml : Negative
+10.0-12.5 IU/ml : Indeterminate (Borderline)
+>12.5 IU/ml : Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,11977,Not found,Not found
+10233,"<40.0 = Negative
+>40.0 = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13109,Not found,Not found
+10234,< 4.0 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13107,Not found,Not found
+10235,"< 10.0 U/ml =Negative
+>= 10.0 U/ml =Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10661,Not found,Not found
+10236,"< 10.0 U/ml =Negative
+>= 10.0 U/ml =Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12295,Not found,Not found
+10237,"< 0.90 = Negative
+0.90 - 1.10 = Equivocal
+> 1.10 = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14027,Not found,Not found
+10238,"<0.90 = Negative
+0.90-1.10 = Equivocal
+>=1.10 = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14209,Not found,Not found
+10239,"< 10.0 U/mL = Negative
+>= 10.0 U/mL = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10657,Not found,Not found
+10240,Upto 12.0 IU/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10577,Not found,Not found
+10241,"<20 : Negative
+20-25 : Equivocal
+>25 : Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,11991,Not found,Not found
+10242,"Adult: 118 - 132, Ch: 110 - 130 mmol/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14394,Not found,Not found
+10243,15-45 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11045,Not found,Not found
+10244,"Adult: 40-70 mg/dl
+Infant: 60-80 mg/dl
+(60% of plasma Value)",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14395,Not found,Not found
+10245," 4,000-11,000	",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13646,Not found,Not found
+10246,40 - 80 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13150,Not found,Not found
+10247,20 - 40 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13151,Not found,Not found
+10248,02 - 10 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13152,Not found,Not found
+10249,01 - 06 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13153,Not found,Not found
+10250,< 01 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13154,Not found,Not found
+10251,"F 11.5 - 15.5, M 13.5 - 18.0  g/dL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13424,Not found,Not found
+10252,27 - 32 pg,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12167,Not found,Not found
+10253,37 - 54 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14141,Not found,Not found
+10254,31.50 - 34.50 g/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10690,Not found,Not found
+10255,150 - 400 X 10^9/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14142,Not found,Not found
+10256,37 - 54 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14143,Not found,Not found
+10257,"F 11.5 - 15.5, M 13.5 - 18.0 g/dL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14236,Not found,Not found
+10258,< 30 mm in 1st hour,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14237,Not found,Not found
+10259,82 - 100 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12971,Not found,Not found
+10260,Adult 2-17 �mol/L, Neonates <215.5 �mol/L,Not found,Not found,Not found,Not found,Not found,Not found,13081,Not found,Not found
+10261,Upto 37 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13074,Not found,Not found
+10262,Upto 42 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13075,Not found,Not found
+10263,"Child: Upto 340 U/L, Adult: 117 U/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13076,Not found,Not found
+10264,64-82 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13077,Not found,Not found
+10265,34-50 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13078,Not found,Not found
+10266,16-36 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13079,Not found,Not found
+10267,"F 3.8 - 4.8, M 4.5 - 5.5  X 10^12/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14238,Not found,Not found
+10268,150 - 450 X 10^9/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14239,Not found,Not found
+10269,04.00 - 11.00  X 10^9/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14240,Not found,Not found
+10270,40 - 75 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14241,Not found,Not found
+10271,20 - 50 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14242,Not found,Not found
+10272,02 - 10 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14243,Not found,Not found
+10273,< 01 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14224,Not found,Not found
+10274,"F: 37 - 47 % , M: 40 - 52 %",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14225,Not found,Not found
+10275,82 - 100 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14226,Not found,Not found
+10276,27 - 32 pg,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14227,Not found,Not found
+10277,30 - 35 g/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14228,Not found,Not found
+10278,"F 11.5 - 15.5, M 13.5 - 18.0 g/dL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13114,Not found,Not found
+10279,"F 3.8-4.8, M 4.5-5.5  X 10^12/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13116,Not found,Not found
+10280,"Male: 85 - 227 U/L, Female: 81 - 234 U/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10966,Not found,Not found
+10281,Upto 25 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14475,Not found,Not found
+10282,276.0 - 295.0 mOsm/Kg,276.0 - 295.0 mOsm/Kg,Not found,Not found,Not found,Not found,Not found,BSH,14385,Not found,Not found
+10283,62 - 82 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12206,Not found,Not found
+10284,96 - 110 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13794,Not found,Not found
+10285,<7.8 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12203,Not found,Not found
+10286,60 - 1400 mOsm/Kg,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14191,Not found,Not found
+10287,< 20 mg/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13788,Not found,Not found
+10288,1.9-9.8 mg/24 HRS,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13084,Not found,Not found
+10289,04.00 - 10.00  X 10^9/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10527,Not found,Not found
+10290,1.6-2.3 mg/dl,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13697,Not found,Not found
+10291,"At birth < 5.0 mg/dl
+5 days < 12.0 mg/dl
+1 Month < 1.50 mg/dl
+adult < 1.2 mg/dl",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14370,Not found,Not found
+10292,5-47 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14372,Not found,Not found
+10293,"Male: < 50.0 U/L
+Female: <35.0 U/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14344,Not found,Not found
+10294,38 - 126 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14373,Not found,Not found
+10295,35 - 52 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11580,Not found,Not found
+10296,9-33 �mol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13747,Not found,Not found
+10297,(2.5:1-1.2:1),Not found,Not found,Not found,Not found,Not found,Not found,BSH,13746,Not found,Not found
+10298,Upto 7.6 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10584,Not found,Not found
+10299,Effective Therapeutic Level 0.6 - 1.2 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13528,Not found,Not found
+10300,"Male: 15-73 U/L, Female: 12-43 U/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13786,Not found,Not found
+10301,"Optimal: <100 mg/dL,
+Near optimal: 100-129 mg/dL,
+Borderline -high: 130-159 mg/dL,
+High: 160-189 mg/dL,
+Very high: >189 mg/dL
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10969,Not found,Not found
+10302,"Optimal: <100 mg/dL,
+Normal: < 150 mg/dL  
+Borderline -high: 150 - 199 mg/dL 
+High: 200 - 499 md/dL,
+Very High: >499 mg/dL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10970,Not found,Not found
+10303,40 - 250 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12476,Not found,Not found
+10304,7.35 - 7.45,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14325,Not found,Not found
+10305,7.20 - 9.20 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13381,Not found,Not found
+10306,39.00 - 46.00 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13380,Not found,Not found
+10307,10.0 - 16.0 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13379,Not found,Not found
+10308,"F: 37 - 47 % , M: 40 - 52 %",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13124,Not found,Not found
+10309,"Before10 AM: 3.7-19.4 �g/dL 
+After 5 PM: 2.9 -17.3 �g/dL
+Approximately half of A.M. value",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12358,Not found,Not found
+10310,< 35 IU/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11051,Not found,Not found
+10311,"Male: <1.5 ng/mL
+Female: <0.1 ng/mL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12477,Not found,Not found
+10312,<1.5 ng/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13649,Not found,Not found
+10313,10.2 - 26.0 �mol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10613,Not found,Not found
+10314,Adult 2-17 �mol/L, Neonates <215.5 �mol/L,Not found,Not found,Not found,Not found,Not found,Not found,12578,Not found,Not found
+10315,Adult 2-17 �mol/L, Neonates <215.5 �mol/L,Not found,Not found,Not found,Not found,Not found,Not found,12581,Not found,Not found
+10316,6.0-48.0 pg/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14468,Not found,Not found
+10317,0.89-8.78 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13473,Not found,Not found
+10318,< 15.0 AU/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10405,Not found,Not found
+10319,"Sample OD < Cut-off OD = Negative
+Sample OD > Cut-off OD = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10408,Not found,Not found
+10320,"Sample OD < Cut-off OD = Negative
+Sample OD > Cut-off OD = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10406,Not found,Not found
+10321,"Sample OD < Cut-off OD = Negative
+Sample OD > Cut-off OD = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10409,Not found,Not found
+10322,"Sample OD < Cut-off OD = Negative
+Sample OD > Cut-off OD = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10407,Not found,Not found
+10323,"< 4.5
+4.5 - 8.5
+> 8.5",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10971,Not found,Not found
+10324,Therapeutic range: 50 - 100 �g/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14026,Not found,Not found
+10325,< 11.9 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13707,Not found,Not found
+10326,25.0 - 125.0 mmol/24hrs,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13963,Not found,Not found
+10327,Less than 30 mg/24hrs,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13710,Not found,Not found
+10328,Less than 30 mg/24hrs,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13708,Not found,Not found
+10329,"< 10.0 U/ml : Negative
+= 10 - 15 U/ml : Borderline
+> 15 U/ml : Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14199,Not found,Not found
+10330,"< 10.0 U/ml = Negative
+= 10 - 15 U/ml : Borderline
+>15.0 U/ml = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14397,Not found,Not found
+10331,60 - 1400 mOsm/Kg,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14346,Not found,Not found
+10332,0.06 - 5.0 ng/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13460,Not found,Not found
+10333,0.06 - 5.0 ng/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13939,Not found,Not found
+10334,0.06 - 5.0 ng/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13457,Not found,Not found
+10335,0.06 - 5.0 ng/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13461,Not found,Not found
+10336,>7.5 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13462,Not found,Not found
+10337,"Desirable:< 200 mg/dL, Borderline: 200 - 239 mg/dL,
+High: > 239 mg/dL, Child: 0-1 year: 50-120 mg/dL, 
+1-2 yeras: 70-190 mg/dL, 2-6 years: 120-220 mg/dL, 
+> 16 years: 0-199 mg/dL
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13068,Not found,Not found
+10338,> 40 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13069,Not found,Not found
+10339,"Optimal: <100 mg/dL,
+Near optimal: 100-129 mg/dL,
+Borderline -high: 130-159 mg/dL,
+High: 160-189 mg/dL,
+Very high: >189 mg/dL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13070,Not found,Not found
+10340,"Optimal: <100 mg/dL,
+Normal: < 150 mg/dL  
+Borderline -high: 150 - 199 mg/dL 
+High: 200 - 499 md/dL,
+Very High: >499 mg/dL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13071,Not found,Not found
+10341,"< 4.5
+4.5 - 8.5
+> 8.5",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13072,Not found,Not found
+10342,Upto 18 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14078,Not found,Not found
+10343,"M: 60 - 130, F: 53 - 120 �mol/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14079,Not found,Not found
+10344,"Normal: < 30 mg/24hrs
+Microalbuminuria: 30 - 300 mg/24hrs
+Macroalbuminuria: > 300 mg/24hrs",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10743,Not found,Not found
+10345,0.06 - 5.0 ng/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13647,Not found,Not found
+10346,"Normoalbuminuria : < 20 �g/min
+Microalbuminuria : 20 - 200 �g/min
+Macroalbuminuria : > 200 �g/min",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10746,Not found,Not found
+10347,"Deficiency    : <10 ng/ml
+Insufficiency : 10-30 ng/ml
+Sufficiency   : 30-100 ng/ml
+Toxicity      : >100 ng/ml",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13795,Not found,Not found
+10348,30 - 100 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13797,Not found,Not found
+10349,> 100 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13798,Not found,Not found
+10350,1.000 - 1.030,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11076,Not found,Not found
+10351,4.03 - 23.46 �IU/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10411,Not found,Not found
+10352,Upto 115 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13663,Not found,Not found
+10353,Upto 42 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14328,Not found,Not found
+10354,"F 3.8 - 4.8, M 4.5 - 5.5  X 10^12/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14139,Not found,Not found
+10355,01 - 06 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14223,Not found,Not found
+10356,Adult: 118-132, Child: 110-130 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,10769,Not found,Not found
+10357,Adult: 15-40, Child: 20-80 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,10768,Not found,Not found
+10358,Adult: 40-70, Child: 60-80 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,10770,Not found,Not found
+10359,22 - 29 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10766,Not found,Not found
+10360,135-146 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10763,Not found,Not found
+10361,"Child 3.4-4.7, Adult 3.5-5.5 mmol/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10764,Not found,Not found
+10362,96 - 108 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10765,Not found,Not found
+10363,Upto 25 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10767,Not found,Not found
+10364,<17 IU/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10823,Not found,Not found
+10365,"F 11.5 - 15.5, M 13.5 - 18.0 g/dL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13147,Not found,Not found
+10366,< 30 mm in 1st hour,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13148,Not found,Not found
+10367,"Index Value:
+
+< 1.5   = Negative
+>= 1.5 = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14531,Not found,Not found
+10368,<5.0 U/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14534,Not found,Not found
+10369,0 - 5,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14508,Not found,Not found
+10370,Negative,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14499,Not found,Not found
+10371,yellow Pale Yellow/Straw,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14501,Not found,Not found
+10372,0 - 5,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14515,Not found,Not found
+10373,0 - 9,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14512,Not found,Not found
+10374,0 - 9,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14509,Not found,Not found
+10375,0 - 6,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14510,Not found,Not found
+10376,0 - 6,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14513,Not found,Not found
+10377,0 - 6,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14514,Not found,Not found
+10378,0 - 6,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14493,Not found,Not found
+10379,Not found,Not found,Not found,Not found,Not found,Not found,Not found,www.bsh.com,16256,Not found,BSH
+10380,Not found,Not found,Not found,Not found,Not found,Not found,Not found,www.bsh.com,16256,Not found,BSH
+10381,Not found,Not found,Not found,Not found,Not found,Not found,Not found,www.bsh.com,16256,Not found,BSH
+10382,Not found,Not found,Not found,Not found,Not found,Not found,Not found,www.bsh.com,16256,Not found,BSH
+10383,Not found,Not found,Not found,Not found,Not found,Not found,Not found,www.bsh.com,16256,Not found,BSH
+10384,0 - 6,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14495,Not found,Not found
+10385,0 - 6,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14498,Not found,Not found
+10386,0 - 2,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14500,Not found,Not found
+10387,Not found,Not found,Not found,Not found,Not found,Not found,Not found,www.bsh.com,16256,Not found,BSH
+10388,0 - 1.5,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14517,Not found,Not found
+10389,Not found,Not found,Not found,Not found,Not found,Not found,Not found,www.bsh.com,16256,Not found,BSH
+10390,0 - 2,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14518,Not found,Not found
+10391,0 - 2,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14519,Not found,Not found
+10392,0 - 2,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14520,Not found,Not found
+10393,0 - 5,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14521,Not found,Not found
+10394,0 - 3,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14522,Not found,Not found
+10395,Not found,Not found,Not found,Not found,Not found,Not found,Not found,www.bsh.com,16256,Not found,BSH
+10396,0.1 - 1.8 mg/dl,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14497,Not found,Not found
+10397,Negative,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14496,Not found,Not found
+10398,None,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14502,Not found,Not found
+10399,Absent,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14503,Not found,Not found
+10400,Negative,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14490,Not found,Not found
+10401,<= 3 RBC,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14516,Not found,Not found
+10402,4.5 - 8.0,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14504,Not found,Not found
+10403,Negative,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14505,Not found,Not found
+10404,Negative,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14506,Not found,Not found
+10405,1.005 - 1.025,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14507,Not found,Not found
+10406,Clear /Cloudy,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14511,Not found,Not found
+10407,Not found,Not found,Not found,Not found,Not found,Not found,Not found,www.bsh.com,16256,Not found,BSH
+10408,0 - 1.5,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14494,Not found,Not found
+10409,0 - 1.5,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14491,Not found,Not found
+10410,Nil,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14492,Not found,Not found
+10411,0 - 12,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14523,Not found,Not found
+10412,Not found,Not found,Not found,Not found,Not found,Not found,Not found,www.bsh.com,16256,Not found,BSH
+10413,0 - 0.26,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14524,Not found,Not found
+10414,0 - 0.26,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14525,Not found,Not found
+10415,Not found,Not found,Not found,Not found,Not found,Not found,Not found,www.bsh.com,16256,Not found,BSH
+10416,30 mg/dl higher than LDL goal,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10972,Not found,Not found
+10417,30 mg/dl higher than LDL goal,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13073,Not found,Not found
+10418,"< 0.90 = Negative
+0.90 - 1.1 = Equivocal
+> 1.1 = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14539,Not found,Not found
+10419,"< 0.90 = Negative
+0.90 - 1.1 = Equivocal
+>= 1.1 = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14540,Not found,Not found
+10420,"s/co Ratio   : 
+Non Reactive : < 0.9 
+Intermediate : 0.9 - 1.0
+ Reactive     : >= 1.1",Not found,Not found,Not found,Not found,Not found,Not found,BSH,15137,Not found,Not found
+10421,"< 0.90 = Negative
+0.90 - 1.1 = Equivocal
+>1.1 = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,15135,Not found,Not found
+10422,"< 0.90 = Negative
+0.90 - 1.1 = Equivocal
+>= 1.1 = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,15134,Not found,Not found
+10423,"s/co Ratio   : 
+Non Reactive : < 0.9 
+Intermediate : 0.9 - 1.0
+ Reactive     : >= 1.1",Not found,Not found,Not found,Not found,Not found,Not found,BSH,15136,Not found,Not found
+10424,"M: 16-60, F: 11 - 51 �mol/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14544,Not found,Not found
+10425,"< 2 AU/ml = Negative
+2-2.6 AU/ml = Equivocal
+> 2.6 AU/ml = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12180,Not found,Not found
+10426,"Adult : 0.35-4.95 �IU/mL
+Child : 0.70-5.70 �IU/mL
+infant: 0.80-9.10 �IU/mL
+Newborn: 1.0 - 39.0 �IU/mL
+
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,11976,Not found,Not found
+10427,Adult : 0.35-4.95 IU/mLChild : 0.70-5.70 IU/mLinfant: 0.80-9.10 IU/mLNewborn: 1.0 - 39.0 IU/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13553,Not found,Not found
+10428,0.8:1 - 2.7:1,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13080,Not found,Not found
+10429,"Female :0.06-6.88 ng/ml
+Male :0.02-1.23 ng/ml
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14685,Not found,Not found
+10430,"Deficient: <20.0 ng/ml
+Insufficient: 20.0 - 29.0 ng/ml
+Sufficient : 30.0 - 100.0 ng/ml
+Potential Toxicity: >100.0 ng/ml",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10822,Not found,Not found
+10431,<2.0 AU/mL   : Negative. 2.0-4.0AU/mL:Equivocal. >4.0 AU/mL   : Positive,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13513,Not found,Not found
+10432,< 5.0 IU/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13520,Not found,Not found
+10433,Upto 1.6 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12015,Not found,Not found
+10434,"Optimal: <100 mg/dL,
+Near optimal: 100-129 mg/dL,
+Borderline -high: 130-159 mg/dL,
+High: 160-189 mg/dL,
+Very high: >189 mg/dL
+
+","Optimal: <100 mg/dL,
+Near optimal: 100-129 mg/dL,
+Borderline -high: 130-159 mg/dL,
+High: 160-189 mg/dL,
+Very high: >189 mg/dL
+
+",Not found,Not found,Not found,Not found,Not found,BSH,14131,Not found,Not found
+10435,"< 125 Excludes Pathological Proteinuria.
+> 136 Pathological Proteinuria.","< 125 Excludes Pathological Proteinuria.
+> 136 Pathological Proteinuria.",Not found,Not found,Not found,Not found,Not found,BSH,12631,Not found,Not found
+10436,upto 0.6 mg/dl,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13792,Not found,Not found
+10437,< 100 pg/ml,< 100 pg/ml,Not found,Not found,Not found,Not found,Not found,BSH,10397,Not found,Not found
+10438,"M: < 30 mm, F: < 20 mm","M: < 30 mm, F: < 20 mm",Not found,Not found,Not found,Not found,Not found,BSH,13387,Not found,Not found
+10439,"F < 38mm, M < 29mm","F < 38mm, M < 29mm",Not found,Not found,Not found,Not found,Not found,BSH,13423,Not found,Not found
+10440,"F < 38mm, M < 29mm","F < 38mm, M < 29mm",Not found,Not found,Not found,Not found,Not found,BSH,14246,Not found,Not found
+10441,"F < 38mm, M < 29mm","F < 38mm, M < 29mm",Not found,Not found,Not found,Not found,Not found,BSH,13144,Not found,Not found
+10442,<5.0 U/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14535,Not found,Not found
+10443,"F< 38 mm,M<29 mm",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13149,Not found,Not found
+10444,Upto 20.0 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10413,Not found,Not found
+10445,<7.8 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13750,Not found,Not found
+10446,<7.8 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13476,Not found,Not found
+10447,< 7.8 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13752,Not found,Not found
+10448,0.20 - 4.0 ng/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14661,Not found,Not found
+10449,Non-reactive : < 1.0 COI,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14007,Not found,Not found
+10450,27-36 pg,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14138,Not found,Not found
+10451,1.0 - 1.5 g/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13448,Not found,Not found
+10452,"Serum: Upto 18 U/L, 
+Pleural fluid: Upto 35 U/L,
+CSF: 0-5 U/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14387,Not found,Not found
+10453,4.5 - 6.0,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10693,Not found,Not found
+10454,"M: 15 - 73 U/L, F: 12 - 43 U/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14567,Not found,Not found
+10455,"Adult: 2.5 - 5.0 mg/dl
+Child: 3.0 - 7.0 mg/dl",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14554,Not found,Not found
+10456,M:59 - 148, F: 37 - 145 �g/dL,Not found,Not found,Not found,Not found,Not found,Not found,10117,Not found,Not found
+10457,Male: 21.8-274.7 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10119,Not found,Not found
+10458,"<2.0 IU/ml = Negative
+>2.0 IU/ml = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13522,Not found,Not found
+10459,Upto 10.0 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,16212,Not found,Not found
+10460,"Cut off Rate < Positive
+Cut off Rate > Negative",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12079,Not found,Not found
+10461,< 7.8 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13506,Not found,Not found
+10462,< 7.8 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13790,Not found,Not found
+10463,35-52 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13946,Not found,Not found
+10464,26-35 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13947,Not found,Not found
+10465,"Male: 291-430 �g/dl
+Female: 274-494 �g/dl",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10118,Not found,Not found
+10466,<5.0 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12042,Not found,Not found
+10467,2 - 8 Min (Duke's Method),Not found,Not found,Not found,Not found,Not found,Not found,BSH,14483,Not found,Not found
+10468,4.1 -  6.1 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12218,Not found,Not found
+10469,62 - 82 gm/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12220,Not found,Not found
+10470,Not found,Not found,Not found,Not found,Not found,Not found,Not found,www.bsh.com,16256,Not found,BSH
+10471,Male: Upto 1.70 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14134,Not found,Not found
+10472,Male: Upto 3.70 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14133,Not found,Not found
+10473,"Male: Upto 5.40 U/L
+Female: Upto 4.20 U/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14132,Not found,Not found
+10474,"Age 1-5 : 45-305 ng/ml, 
+Age 6-10 : 50-410 ng/ml
+Age 11-15 : 80-900 ng/ml, 
+Age 16-20 : 75-850 ng/ml
+>20 : 60-350 ng/ml",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13941,Not found,Not found
+10475,"<2.0 AU/mL = Negative
+>2.0 AU/mL = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14029,Not found,Not found
+10476,3.5-6.1 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14336,Not found,Not found
+10477,Upto 7.80 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14338,Not found,Not found
+10478,4.3 - 176.0 �g/24 hours,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14378,Not found,Not found
+10479,6.97 - 20.5 U/g Hb,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13495,Not found,Not found
+10480,"
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14202,Not found,Not found
+10481,Not found,Not found,Not found,Not found,Not found,Not found,Not found,www.bsh.com,16256,Not found,BSH
+10482,upto 100,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14480,Not found,Not found
+10483,"Healthy, Non pregnant, Individual: <5.0 mIU/mL, Early pregnancy: 5-25mIU/mL, Summerization of �hCG in Normal pregnancy: Weeks post LMP level: 3-weeks 5-50 mIU/mL, 
+4 weeks 5-426 mIU/mL, 5 weeks 18-7,340 mIU/mL, 6 weeks 1,080-56,500 mIU/mL, 
+7-8 weeks 7,650-229,000 mIU/mL, 9-12 weeks 25,700-288,000 mIU/mL, 13-16 weeks 13,300-254,000 mIU/mL, 17-24 weeks 4,060-165,400 mIU/mL, 25-40 weeks 3,640-117,000 mIU/mL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10399,Not found,Not found
+10484,">8.0 Action Suggested +, <7.0 Goal ++, <6.0 Non Diabetic Level,",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13950,Not found,Not found
+10485,">8.0 Action Suggested +, <7.0 Goal ++, <6.0 Non Diabetic Level",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13951,Not found,Not found
+10486,"Healthy individuals: <0.05 ng/mL, Local bacterial infection is possible: <0.5 ng/mL
+Viral infections, chronic inflammation and systemic inflammatory response syndrome (SIRS): <2 ng/mL, Systemic infection (sepsis) is likely : <10 ng/mL, Sever bacterial sepsis or septic shock: >10 ng/mL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14481,Not found,Not found
+10487,<5.0 IU/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11632,Not found,Not found
+10488,5.0-15.0 �mol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14358,Not found,Not found
+10489,<20.0 mg/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13450,Not found,Not found
+10490,Male: 13-17 g/dl,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14171,Not found,Not found
+10491,"Male: < 30 mm, Female: < 20 mm",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14172,Not found,Not found
+10492,Male: 4 - 6 X 10^12/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14173,Not found,Not found
+10493,150 - 450 X 10^9/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14174,Not found,Not found
+10494,4 - 11  X 10^9/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14175,Not found,Not found
+10495,"Child: 20-50, Adult: 40-75",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14176,Not found,Not found
+10496,"Child: 40-75, Adult: 20-40",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14177,Not found,Not found
+10497,2 - 10,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14178,Not found,Not found
+10498,2 - 6,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14179,Not found,Not found
+10499,< 1.0,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14180,Not found,Not found
+10500,"F: 36 - 46 % , M: 40 - 50 %",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14181,Not found,Not found
+10501,82 - 100 fL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14182,Not found,Not found
+10502,27 - 32 pg,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14183,Not found,Not found
+10503,30 - 35 g/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14184,Not found,Not found
+10504,15.0 - 68.3 pg/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11950,Not found,Not found
+10505,Upto 5.61,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14476,Not found,Not found
+10506,"Before10 AM: 3.7-19.4 �g/dL 
+After 5 PM: 2.9 -17.3 �g/dL
+Approximately half of A.M. value",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12146,Not found,Not found
+10507,"Before10 AM: 3.7-19.4 �g/dL 
+After 5 PM: 2.9 -17.3 �g/dL
+Approximately half of A.M. value",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12145,Not found,Not found
+10508,5-17 mg/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12512,Not found,Not found
+10509,40-250 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12510,Not found,Not found
+10510,20-300 mg/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12511,Not found,Not found
+10511,4 - 10 Min (Capillary Tube Method),Not found,Not found,Not found,Not found,Not found,Not found,BSH,14489,Not found,Not found
+10512,0 - 1.5,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14527,Not found,Not found
+10513,"Antibody Negative :<8mIU/ml
+Border line: 8-12 mIU/ml
+Positive: >12.0 mIU/ml",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14005,Not found,Not found
+10514,"Early morning: 20.0 -180.0 pg/ml
+Upright 2 hours: 30.0 - 400.0 pg/ml",Not found,Not found,Not found,Not found,Not found,Not found,BSH,11979,Not found,Not found
+10515,Upto 55.0 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,15142,Not found,Not found
+10516,<0.14,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14214,Not found,Not found
+10517,20.0 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10469,Not found,Not found
+10518,Upto 10.0 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10467,Not found,Not found
+10519,25-40 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10468,Not found,Not found
+10520,Upto 10.0 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12973,Not found,Not found
+10521,20.0 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10470,Not found,Not found
+10522,Upto 10.0 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10471,Not found,Not found
+10523,20.0 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10578,Not found,Not found
+10524,"Male: 13-71 nmol/L
+Female: 18-114 nmol/L
+(Non-pregnant)",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12033,Not found,Not found
+10525,50-350 cmm3,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13058,Not found,Not found
+10526,"18-20 years old: male: 24-537 �g/dL, female: 51-321 �g/dL
+21-30 years old: male: 85-690 �g/dL, female: 18-391 �g/dL
+31-40 years old: male: 104-464 �g/dL, female: 23-266 �g/dL
+41-50 years old: male: 70-495 �g/dL, female: 19-321 �g/dL
+51-60 years old: male: 39-313 �g/dL, female: 8-188 �g/dL
+61-70 years old: male: 24-244 �g/dL, female: 12-133 �g/dL
+>71 years old: male: 5-253 �g/dL, female: 7-177 �g/dL
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14357,Not found,Not found
+10527,"Adult Woman
+Follicular Phase : 0.1-0.8 ng/ml
+Luteal Phase : 0.6-2.3 ng/ml
+Ovulation: 0.3-1.4 ng/ml
+Post ACTH: <3.2 ng/ml
+Third trimester: 2.0-12.0 ng/ml
+Postmenupausal : 0.13-0.51 ng/ml
+Men : 0.5-2.1 ng/ml
+Children (3-14 Years): 0.07-1.7 ng/ml
+New borns:
+1 month after birth: 0.0-16.8 ng/ml
+2 months after birth: 1.9-9.8 ng/ml
+3 Months after birth: 0.1-4.0 ng/ml",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12178,Not found,Not found
+10528,"< 10 U/mL : Negative
+> 10 U/mL : Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13959,Not found,Not found
+10529,"Serum upto 18 U/L, Fluid upto 35 U/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14195,Not found,Not found
+10530,>1000 ng/mL may be considered as positive,Not found,Not found,Not found,Not found,Not found,Not found,BSH,15147,Not found,Not found
+10531,"Male: 3.46-19.4 ng/ml,  
+Female: 5.18-26.53 ng/ml",Not found,Not found,Not found,Not found,Not found,Not found,BSH,14533,Not found,Not found
+10532,<25.0 mg/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12292,Not found,Not found
+10533,1.0-1.5 g/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12293,Not found,Not found
+10534,<30.0 mg/g,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12294,Not found,Not found
+10535,10 mm,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12992,Not found,Not found
+10536,1.000 - 1.030,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13993,Not found,Not found
+10537,< 3.0 AU/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13518,Not found,Not found
+10538,< 7.8 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14250,Not found,Not found
+10539,< 7.8 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14472,Not found,Not found
+10540,"<2.0 AU/mL = Negative
+2-3 AU/mL  = Equivocal",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12165,Not found,Not found
+10541,50-160 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14647,Not found,Not found
+10542,0-100 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12135,Not found,Not found
+10543,< 10 %,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12928,Not found,Not found
+10544,04.00 - 11.00  X 10^9/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,15133,Not found,Not found
+10545,15 - 50 mg/dl,Not found,Not found,Not found,Not found,Not found,Not found,BSH,15125,Not found,Not found
+10546,"Adult: 0.6 - 1.4 mg/dl,
+Child: 0.23 - 0.74 mg/dl",Not found,Not found,Not found,Not found,Not found,Not found,BSH,15126,Not found,Not found
+10547,135 - 146 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,15127,Not found,Not found
+10548,3.5-5.2 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,15128,Not found,Not found
+10549,96 - 108 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,15129,Not found,Not found
+10550,"New born : 13 - 22 mmol/L
+Child    : 20 - 28 mmol/L
+Adult    : 22 - 31 mmol/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,15130,Not found,Not found
+10551,37 - 170 �g/dL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10114,Not found,Not found
+10552,"Male: 291-430 �g/dl
+Female: 274-494 �g/dl",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10115,Not found,Not found
+10553,"Females <50 yrs:6.24-137 ng/ml, Females >50 yrs:11.1-264 ng/ml, Males: 17.9-464 ng/ml",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10116,Not found,Not found
+10554,0.7-5.13 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10448,Not found,Not found
+10555,Upto 7.80 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13504,Not found,Not found
+10556,"Negative: <0.50
+Grayzone: 0.50 to <1.00
+Positive: Greater or equal to 1.0",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10825,Not found,Not found
+10557,36 - 114 U/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11049,Not found,Not found
+10558,"Male: 70 to 140 �g/dL
+Female: 80 to 155 �g/dL",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12597,Not found,Not found
+10559,"Serum: 0 -18 U/L, 
+Pleural fluid: 0 - 35 U/L, 
+CSF: 0-5 U/L	
+",Not found,Not found,Not found,Not found,Not found,Not found,BSH,11043,Not found,Not found
+10560,"Serum: Upto 18 U/L, 
+Pleural fluid: Upto 35 U/L,
+CSF: 0 - 5 U/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,10528,Not found,Not found
+10561,< 2.0 IU/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10404,Not found,Not found
+10562,<2.0 AU/mL   : Negative,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12166,Not found,Not found
+10563,<2.0 AU/mL   : Negative,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14193,Not found,Not found
+10564,<2.0 AU/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12179,Not found,Not found
+10565,<2.0 AU/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14192,Not found,Not found
+10566,Upto 125 pg/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12302,Not found,Not found
+10567,Upto 600 pg/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12301,Not found,Not found
+10568,<2.0 AU/mL = Negative,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12158,Not found,Not found
+10569,<2.0  AU/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12163,Not found,Not found
+10570,<2 AU/mL       : Negative,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12162,Not found,Not found
+10571,< 2.0 AU/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12161,Not found,Not found
+10572,< 2 AU/ml = Negative,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12160,Not found,Not found
+10573,< 2.0 IU/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12159,Not found,Not found
+10574,< 2 AU/ml = Negative,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12164,Not found,Not found
+10575,upto 190 IU/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12513,Not found,Not found
+10576,Upto 125 pg/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14000,Not found,Not found
+10577,Upto 600 pg/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14001,Not found,Not found
+10578,15.0 - 68.3 pg/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,16063,Not found,Not found
+10579,"< 10 U/mL : Negative
+> 10 U/mL : Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13961,Not found,Not found
+10580,"<10 U/mL   : Negative
+=10-15 U/mL: Borderline
+>15 U/mL   : Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13452,Not found,Not found
+10581,"<10 U/mL   : Negative
+=10-15 U/mL: Borderline
+>15 U/mL   : Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,13453,Not found,Not found
+10582,"<0.95 = Negative
+>0.95 -1.0 = Borderline
+>1.0 = Positive",Not found,Not found,Not found,Not found,Not found,Not found,BSH,11913,Not found,Not found
+10583,0.7 - 2.1 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,15149,Not found,Not found
+10584,upto 0.026 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10398,Not found,Not found
+10585,upto 0.026 ng/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14477,Not found,Not found
+10586,Upto 490 U/24 hrs.,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12280,Not found,Not found
+10587,4.3 - 176.0 �g/24 hrs,Not found,Not found,Not found,Not found,Not found,Not found,BSH,13417,Not found,Not found
+10588,<7.8 mmol/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10582,Not found,Not found
+10589,4.0 - 37.52 pg/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,14379,Not found,Not found
+10590,0 - 4.2  AU/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12486,Not found,Not found
+10591,< 2.0 mg/L,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11473,Not found,Not found
+10592,< 50.0 �g/gm,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11627,Not found,Not found
+10593,Upto 225 U/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11332,Not found,Not found
+10594,Upto 1.0 U/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,11333,Not found,Not found
+10595,50.0 - 100.0 ug/ml,Not found,Not found,Not found,Not found,Not found,Not found,BSH,10602,Not found,Not found
+10596,0.20 - 4.0 ng/mL,Not found,Not found,Not found,Not found,Not found,Not found,BSH,12142,Not found,Not found
+10597,"Serum: Upto 18 U/L, 
+Pleural fluid: Upto 35 U/L,
+CSF: 0 - 5 U/L",Not found,Not found,Not found,Not found,Not found,Not found,BSH,12290,Not found,Not found
+10598,>= 60 ml/min/1.73m�,Not found,Not found,Not found,>= 75 ml/min/1.73m�,>= 60 ml/min/1.73m�,>= 60 ml/min/1.73m�,BSH,10654,Not found,Not found
+10599,02-10 %,Not found,Not found,Not found,Not found,02-10 %,02-10 %,BSH,13121,Not found,Not found
+10600,"Child-(1.45-1.78), Adult-(0.8-1.6) mmol/L",Not found,Not found,Not found,"Child-(1.45-1.78), Adult-(0.8-1.6) mmol/L","Child-(1.45-1.78), Adult-(0.8-1.6) mmol/L","Child-(1.45-1.78), Adult-(0.8-1.6) mmol/L",BSH,14474,Not found,Not found
+10601,"At birth < 5.0 mg/dl
+5 days < 12.0 mg/dl
+1 Month < 1.50 mg/dl
+adult < 1.2 mg/dl",Not found,Not found,Not found,Not found,"At birth < 5.0 mg/dl
+5 days < 12.0 mg/dl
+1 Month < 1.50 mg/dl
+adult < 1.2 mg/dl","At birth < 5.0 mg/dl
+5 days < 12.0 mg/dl
+1 Month < 1.50 mg/dl
+adult < 1.2 mg/dl",BSH,13791,Not found,Not found
+10602,62-82 gm/L,Not found,Not found,Not found,Not found,62-82 gm/L,62-82 gm/L,BSH,13945,Not found,Not found
+10603,2 - 8 Min (Duke's Method),Not found,Not found,Not found,Not found,2 - 8 Min (Duke's Method),2 - 8 Min (Duke's Method),BSH,13948,Not found,Not found
+10604,4 - 10 Min (Capillary Tube Method),Not found,Not found,Not found,Not found,4 - 10 Min (Capillary Tube Method),4 - 10 Min (Capillary Tube Method),BSH,13949,Not found,Not found
+10605,< 10 mg/L,Not found,Not found,Not found,Not found,< 10 mg/L,< 10 mg/L,BSH,12447,Not found,Not found
+10606,Not found,Not found,Not found,Not found,Not found,Not found,Not found,BSH,16256,Not found,Not found
